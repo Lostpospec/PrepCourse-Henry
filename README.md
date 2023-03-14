@@ -1,2 +1,1 @@
-# PrepCourse-Henry
-Repositorio del prepcourse
+Este proyecto es una prueba
